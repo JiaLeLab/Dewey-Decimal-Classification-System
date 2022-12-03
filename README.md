@@ -5,9 +5,13 @@ In this project, It's using html connect json database.
 
 
 ## Links
+Copy it paste on your browser.
 ```
 https://jialelab.github.io/Dewey-Decimal-Classification-System/
 ```
+### Or, Just click here.
+
+https://jialelab.github.io/Dewey-Decimal-Classification-System/
 
 ## Downloads
 
