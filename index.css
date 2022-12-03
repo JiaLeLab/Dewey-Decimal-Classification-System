@@ -1,0 +1,18 @@
+body {
+  font-family: 'Poppins';
+  background-color: #ffffff;
+}
+
+#result {
+  position: absolute;
+  width: auto;
+  max-width: auto;
+  cursor: pointer;
+  overflow-y: auto;
+  max-height: auto;
+  box-sizing: border-box;
+  z-index: auto;
+ }
+ .link-class:hover{
+  background: #ffffff;
+ }
